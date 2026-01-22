@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ApiClientCore/ApiClientCore.csproj" />
+  <Project Path="P1ApiClient/P1ApiClient.csproj" />
+  <Project Path="WebApi/WebApi.csproj" />
+</Solution>
